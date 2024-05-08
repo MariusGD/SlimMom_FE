@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkslim_mom_frontend=self.webpackChunkslim_mom_frontend||[]).push([[120],{8120:(s,e,n)=>{n.r(e),n.d(e,{default:()=>c});var m=n(2067);const a="DiaryMobileForm_main__6+2DA";var r=n(579);const c=()=>(0,r.jsx)(m.mc,{children:(0,r.jsx)("main",{className:a,children:(0,r.jsx)(m.MN,{})})})}}]);
+//# sourceMappingURL=120.ee2aa52b.chunk.js.map
